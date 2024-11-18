@@ -1,4 +1,5 @@
-#include<stdio.h>
+//wap to find the prime number between two ranges
+include<stdio.h>
 int main(){
     int r1,r2,i,j;
     printf("enter the range:");
